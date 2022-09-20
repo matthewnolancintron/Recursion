@@ -28,12 +28,4 @@ function fibs(n){
     return sequence
 }
 
-// console.log(fibs(1),'fibs(1)');
-// console.log(fibs(2),'fibs(2)');
-// console.log(fibs(3),'fibs(3)');
-// console.log(fibs(4),'fibs(4)');
-// console.log(fibs(5),'fibs(5)');
-// console.log(fibs(6),'fibs(6)');
-// console.log(fibs(7),'fibs(7)');
 console.log(fibs(8),'fibs(8)');
-// console.log(fibs(100),'fibs(100)');

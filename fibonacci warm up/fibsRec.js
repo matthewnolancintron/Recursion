@@ -7,8 +7,8 @@
     from here:
     https://www.w3resource.com/javascript-exercises/javascript-recursion-function-exercise-6.php
     
-    I just slightly modified it and tried wrote some
-    comment to help myself understand it better.
+    I just slightly modified it and wrote some
+    comments to help myself understand it better.
 
     run "node fibsRect.js" in the terminal
  */
