@@ -110,8 +110,9 @@ function mergeSort(arr) {
 }
 
 //tests
-console.log(mergeSort([1]));
-console.log(mergeSort([2,1]));
-console.log(mergeSort([3,2,1]));
-console.log(mergeSort([10,9,8,7,6,5,4,3,2,1]));
-console.log(mergeSort([2,6,8,7,9,11,13,15,14,12,10,1,3,5,4,16]));
+// console.log(mergeSort([2,1]));
+// console.log(mergeSort([3,2,1]));
+// console.log(mergeSort([10,9,8,7,6,5,4,3,2,1]));
+// console.log(mergeSort([2,6,8,7,9,11,13,15,14,12,10,1,3,5,4,16]));
+
+module.exports = mergeSort;
