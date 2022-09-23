@@ -28,4 +28,4 @@ function fibs(n){
     return sequence
 }
 
-console.log(fibs(8),'fibs(8)');
+module.exports = fibs;

@@ -94,3 +94,5 @@ function fibsRec(n){
 }
 
 console.log(fibsRec(8),'fibs(8)');
+
+module.exports = fibsRec;
